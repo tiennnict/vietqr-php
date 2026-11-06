@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Ngoc Tien
+Copyright (c) 2026 Ngoc Tien Nguyen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+TRADEMARK NOTICE
+
+This license covers the source code only. It does not grant any right to use
+the names, logos or brands "VietQR" (https://vietqr.net/), "NAPAS", the names
+of any bank, or "QR Code" (a registered trademark of DENSO WAVE INCORPORATED).
+This project is independent and is not affiliated with, endorsed by or
+sponsored by any of them.

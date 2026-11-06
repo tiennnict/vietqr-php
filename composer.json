@@ -1,0 +1,15 @@
+{
+    "name": "your-vendor/vietqr-php",
+    "description": "Pure-PHP VietQR (NAPAS 247) payload and offline QR code SVG generator. / Thư viện PHP thuần sinh payload VietQR và ảnh QR SVG cục bộ.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["vietqr", "napas", "qr", "qrcode", "vietnam", "banking", "emv"],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "VietQr\\": "src/"
+        }
+    }
+}

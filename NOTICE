@@ -1,0 +1,21 @@
+Third-party components / Thành phần bên thứ ba
+
+1. QRCode for PHP5 (src/Vendor/qrcode.php)
+   Copyright (c) 2009 Kazuhiko Arase
+   URL: http://www.d-project.com/
+   Source: https://github.com/kazuhikoarase/qrcode-generator/blob/master/php/qrcode.php
+   Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+   Only comments were removed from the original file; the code is unchanged.
+
+   The word "QR Code" is a registered trademark of DENSO WAVE INCORPORATED
+   http://www.denso-wave.com/qrcode/faqpatent-e.html
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files, to deal in the software
+   without restriction, subject to the inclusion of the above copyright notice
+   and the MIT license terms (see LICENSE) in all copies or substantial portions.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+2. data/banks.json
+   Bank list (BIN, code, name) from https://api.vietqr.io/v2/banks.
+   Third-party data; check the provider's terms before commercial use.
